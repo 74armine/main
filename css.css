@@ -1,0 +1,20 @@
+.child{
+ overflow: hidden;
+width: 560px;height: 400px;
+transform: translate(100px, 200px);
+border: solid white ;
+background-color: rgba(17, 16, 16, 0.637);}
+.child1 {
+border: solid white;
+transform: translate(-358px, -680px) rotate(46deg);
+width: 1030px;height: 700px;}
+.child2 {
+border: solid white;
+transform: translate(-4px, -415px) rotate(46deg);
+width: 380px; height: 380px;
+border-top: none;}
+.child3 {
+ border: solid white;
+transform: translate(440px, -1081px) rotate(46deg);
+width: 380px;height: 380px;
+border-left: none; }
